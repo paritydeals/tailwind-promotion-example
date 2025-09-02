@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "salient-ts",
+			"path": "../../../../Downloads/tailwind-plus-salient/salient-ts"
+		},
+		{
+			"name": "tailwind-promotion-example",
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
